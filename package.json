@@ -1,0 +1,16 @@
+{
+  "name": "doubanfm",
+    "license": "MPL 2.0",
+    "author": "Zhang Boren",
+    "version": "2.0",
+    "fullName": "save Music From DoubanFm",
+    "id": "jid1-QMcJ5ZfkntV9WQ",
+    "description": "Download doubanfm automaticly",
+    "preferences": [{
+        "name": "musicDirectory",
+        "title": "musicDirectory",
+        "description": "directory to store music",
+        "type": "string",
+        "value": "/tmp"
+    }]
+}
